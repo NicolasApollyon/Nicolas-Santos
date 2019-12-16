@@ -1,0 +1,7 @@
+1. Criar um algoritmo para somar os valores que o usuário digitar, se o usuário digitar o valor 0 (zero) o “loop” acaba, o resultado da soma deve ser apresentado sempre.
+
+2. Algoritmo que leia o nome de várias pessoas e mostre na tela com uma mensagem de “Olá! <nome>, seja bem vindo.”. Para sair do sistema o usuário deve digitar a palavra “fim” (Atente-se as variações possíveis).
+
+3. A concessionária de veículos CARANGO VELHO está vendendo os seus veículos com desconto. Faça um algoritmo que calcule e exiba o valor do desconto e o valor a ser pago pelo cliente de vários carros. O desconto deverá ser calculado de acordo com o ano do veículo. Até 2000 - 12% e acima de 2000 - 7%. O sistema deverá perguntar se deseja continuar calculando desconto até que a resposta seja: (S) Sim - (N) Não. Informar total de carros com ano até 2000 e total geral.
+
+4. Escrever um algoritmo que leia os dados de N pessoas (nome, sexo, idade e saúde) e informe se está apta ou não para cumprir o serviço militar obrigatório. Informe os totais.

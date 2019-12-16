@@ -1,0 +1,18 @@
+1.Faça um algoritmo que receba 2 números e mostre o maior.
+
+2.Faça um algoritmo que receba 2 números e mostre somente o menor.
+
+3.Algoritmo que peça ao usuário a quantia em dinheiro que tem sobrando e sugira, caso ele tenha 10 ou mais reais, que vá ao cinema, e se não tiver, fique em casa vendo TV.
+
+4.Uma empresa decide dar um aumento de 30% aos funcionários com salários inferiores a R$ 600,00. 
+
+5.Faça um algoritmo que receba o nome e o salário do funcionário e mostre o valor do salário reajustado ou uma mensagem, caso o funcionário não tenha direito ao aumento.
+
+6.Elabore um fluxograma que calcule a média de quatro notas recebidas e retorne “Aprovado”, “Recuperação” ou “Reprovado” seguindo os seguintes critérios:
+	Média >= 6 (Aprovado)
+	Média >= 4 (Recuperação)
+	Média < 4 (reprovado)
+
+7.Faça um algoritmo que verifique a validade de uma senha fornecida pelo funcionário. A senha é 4531. O algoritmo deve mostrar uma mensagem de permissão de acesso ou não.
+
+8.Escreva um algoritmo que receba um número e mostre a sua metade somente quando ela for maior que cinquenta.
